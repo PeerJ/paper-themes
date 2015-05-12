@@ -196,6 +196,7 @@ tfoot { display:table-footer-group }
   color: #00a6fc;
 }
 
+#section-abstract,
 [data-section=abstract] {
   background: #eef;
   border-bottom: 1px solid #07f;
@@ -203,6 +204,7 @@ tfoot { display:table-footer-group }
   margin: 2em 0;
 }
 
+#section-abstract h2,
 [data-section=abstract] h2 {
   background: #00a6fc;
   color: white;
@@ -212,6 +214,7 @@ tfoot { display:table-footer-group }
   font-family: "Helvetica Neue";
 }
 
+#section-abstract p,
 [data-section=abstract] p {
   padding: 0 1em;
 }

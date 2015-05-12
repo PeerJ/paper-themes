@@ -56,20 +56,23 @@ footer dt {
   margin-bottom: 0;
 }
 
+#section-abstract p,
 [data-section=abstract] p {
   font-size: 120%;
 }
 
+#section-abstract p:last-of-type,
 [data-section=abstract] p:last-of-type {
   margin-bottom: 0;
 }
 
-iframe {
-  border: 0;
-}
-
+#section-abstract h2,
 [data-section=abstract] h2 {
   display: none;
+}
+
+iframe {
+  border: 0;
 }
 
 .inline-list > span:not(:last-child):after {
