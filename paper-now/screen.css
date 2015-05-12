@@ -56,6 +56,14 @@ footer dt {
   margin-bottom: 0;
 }
 
+#section-abstract {
+  margin-top: 3em;
+  background: #f6f6f6;
+  padding: 2rem;
+  box-shadow: 0 1px 2px #ddd;
+  border-radius: 2px;
+}
+
 #section-abstract p,
 [data-section=abstract] p {
   font-size: 120%;
