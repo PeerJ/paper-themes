@@ -239,7 +239,8 @@ tfoot { display:table-footer-group }
 .popover,
 .nav,
 .hide,
-.modal {
+.modal,
+[hidden-print] {
   display: none !important;
 }
 
