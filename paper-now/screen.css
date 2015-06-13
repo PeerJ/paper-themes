@@ -101,6 +101,11 @@ figure th {
   background-color: #eee;
 }
 
+.figure-wrap {
+    width: 100%;
+    overflow-x: auto;
+}
+
 #authors {
   text-align: center;
   margin-top: 2rem;
